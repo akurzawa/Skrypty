@@ -1,4 +1,4 @@
-﻿
+hello
 <#zmienne:
 
 co w pliku?
